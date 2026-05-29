@@ -1,0 +1,5 @@
+Triggering Vercel rebuild
+
+This file was updated to create a new commit that triggers Vercel to redeploy the site after recent fixes (router placeholder + package.json updates).
+
+Timestamp: 2026-05-29T18:12:00Z
