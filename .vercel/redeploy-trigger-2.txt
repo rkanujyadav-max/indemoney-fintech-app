@@ -1,0 +1,5 @@
+Triggering Vercel rebuild (2)
+
+This file was added to force a new commit and retrigger Vercel deployment after router and routes placeholders were added.
+
+Timestamp: 2026-05-29T18:20:00Z
